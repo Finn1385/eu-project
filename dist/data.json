@@ -1,0 +1,100 @@
+{
+  "transport": [
+    {
+      "date": 1702204670000,
+      "desc": "SAD Humenné",
+      "address": "SAD Humenné<br>Mierova 11<br>06601 Humenné",
+      "items": [
+        { "name": "Autobusový lístok", "price": 0.79 },
+        { "name": "Dobitie kreditu", "price": 5.0 }
+      ],
+      "qrcode": "asdfhjhasfdjkhjklasdfasdf"
+    },
+    {
+      "date": 1702338137165,
+      "desc": "SAD Humenné",
+      "address": "SAD Humenné<br>Mierova 11<br>06601 Humenné",
+      "items": [{ "name": "Autobusový lístok", "price": 2.6 }],
+      "qrcode": "asdfhjhasfdjkhjklasdfasdf"
+    },
+    {
+      "date": 1702200660000,
+      "desc": "SAD Humenné",
+      "address": "SAD Humenné<br>Mierova 11<br>06601 Humenné",
+      "items": [
+        { "name": "Autobusový lístok", "price": 1.25 },
+        { "name": "Dobitie kreditu", "price": 5.0 }
+      ],
+      "qrcode": "asdfhjhasfdjkhjklasdfasdf"
+    }
+  ],
+  "restaurants": [
+    {
+      "date": 1702204670000,
+      "desc": "TOP TIKTOKER HOUSE 2022",
+      "address": "TOP TIKTOKER HOUSE 2022<br>Jasenovská 1122/17<br>06601 Humenné",
+      "items": [
+        { "name": "Pivo", "price": 3.5 },
+        { "name": "Pizza", "price": 6.5 },
+        { "name": "Rezeň", "price": 5.25 }
+      ],
+      "qrcode": "asdfhjhasfdjkhjklasdfasdf"
+    },
+    {
+      "date": 1702338137165,
+      "desc": "Bergamo Restaurant",
+      "address": "Bergamo Restaurant<br>Gorkého 1555/1<br>06601 Humenné",
+      "items": [
+        { "name": "Obedové menu", "price": 7.2 },
+        { "name": "Pepsi", "price": 2.3 }
+      ],
+      "qrcode": "asdfhjhasfdjkhjklasdfasdf"
+    }
+  ],
+  "services": [
+    {
+      "date": 1702338137165,
+      "desc": "Hotel Karpatia",
+      "address": "Hotel Karpatia<br>Čsl. armády 26<br>06601 Humenné",
+      "items": [
+        { "name": "Izba pre 2 osoby", "price": 79 },
+        { "name": "Poplatok za spracovanie", "price": 2.5 }
+      ],
+      "qrcode": "asdfhjhasfdjkhjklasdfasdf"
+    }
+  ],
+  "supermarkets": [
+    {
+      "date": 1702338137165,
+      "desc": "Kaufland",
+      "address": "Kaufland<br>Štefánikova 5684/50<br>06601 Humenné",
+      "items": [
+        { "name": "Paradajky", "price": 1.97 },
+        { "name": "Cibuľa", "price": 1.99 },
+        { "name": "Cestoviny", "price": 0.79 },
+        { "name": "Mlieko", "price": 0.79 },
+        { "name": "Banány", "price": 1.27 },
+        { "name": "Milka čokoláda", "price": 1.55 },
+        { "name": "Corn flakes K-Classic", "price": 1.99 },
+        { "name": "Saláma", "price": 1.29 },
+        { "name": "Tvaroh", "price": 5.16 },
+        { "name": "Taška", "price": 0.1 }
+      ],
+      "qrcode": "asdfhjhasfdjkhjklasdfasdf"
+    },
+    {
+      "date": 1702338137165,
+      "desc": "Tesco",
+      "address": "Tesco<br>Družstevná 39<br>06601 Humenné",
+      "items": [
+        { "name": "Paradajky", "price": 1.97 },
+        { "name": "Cibuľa", "price": 1.99 },
+        { "name": "Cestoviny", "price": 0.79 },
+        { "name": "Saláma", "price": 1.29 },
+        { "name": "Tvaroh", "price": 5.16 }
+      ],
+      "qrcode": "asdfhjhasfdjkhjklasdfasdf"
+    }
+  ],
+  "other": []
+}
